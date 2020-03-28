@@ -23,7 +23,7 @@
 ## How to get started
 
 1. Fork the repo - when it's forked the repo name will change to `{your username}/grocery-app_blank`
-    * (You might want to rename the repo at this point and remove the `-blank`)
+    * (You might want to rename the repo at this point and remove the `_blank`)
 1. Clone the repo
 1. `cd` into the repo
 1. run `npm install`
