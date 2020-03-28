@@ -27,11 +27,11 @@
 1. Clone the repo
 1. `cd` into the repo
 1. run `npm install`
-1. run `npm start` to run the app in the development mode. Open http://localhost:3000 to view it in the browser.
+1. run `npm start` to run the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## FYI
 `npm run build` builds the app for production to the `build` folder. It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes.
 
 ## Source
 
-This exercise is Question #4 on [Testdome: React Interview Questions](https://www.testdome.com/d/react-js-interview-questions/304)
+This exercise is Question #4 on <a href="https://www.testdome.com/d/react-js-interview-questions/304" target="_blank">Testdome: React Interview Questions</a>
